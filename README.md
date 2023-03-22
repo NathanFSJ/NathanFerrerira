@@ -22,13 +22,18 @@ Here are some ideas to get you started:
   <hr>
   <ul>
    <li>Estudante do SESI 📖</li>
-   <li>Análise e Desenvolvimento de Sistemas</li>
+   <li>Análise e Desenvolvimento de Sistemas 🥵</li>
   <ul> 
    
- ## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
    
-   
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+             
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
+             
+          
           
    
           
