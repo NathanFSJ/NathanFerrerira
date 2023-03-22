@@ -25,5 +25,7 @@ Here are some ideas to get you started:
    <li>Análise e Desenvolvimento de Sistemas</li>
   <ul>  
    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvalorantinfo.com%2Fbr%2Fagentes%2Freyna&psig=AOvVaw2z12ZQ3HDGisNTUM8NLFZQ&ust=1679577893518000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLC0lLbR7_0CFQAAAAAdAAAAABAD">
+   <img src="![image](https://user-images.githubusercontent.com/125685813/226919387-b1976528-bf66-4568-9811-0f2c996c7e01.png)" alt="reyna"
+>"
  
 
