@@ -21,9 +21,10 @@ Here are some ideas to get you started:
  <h1> Hello World 💖 </h1>
   <hr>
   <ul>
-   <li>Estudante do SESI</li>
+   <li>Estudante do SESI 📖</li>
    <li>Análise e Desenvolvimento de Sistemas</li>
-  <ul>  
-   ![image](https://user-images.githubusercontent.com/125685813/226919714-9894c0f5-c242-444a-908f-c67960ee6506.png)
+  <ul> 
+   ##Ferramentas e Tecnologias
+   
 
 
