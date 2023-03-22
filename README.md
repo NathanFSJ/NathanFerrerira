@@ -24,6 +24,7 @@ Here are some ideas to get you started:
    <li>Estudante do SESI 📖</li>
    <li>Análise e Desenvolvimento de Sistemas</li>
   <ul> 
+   
    ## Ferramentas e Tecnologias
    
 
