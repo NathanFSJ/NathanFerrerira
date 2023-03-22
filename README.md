@@ -24,5 +24,6 @@ Here are some ideas to get you started:
    <li>Estudante do SESI</li>
    <li>Análise e Desenvolvimento de Sistemas</li>
   <ul>  
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvalorantinfo.com%2Fbr%2Fagentes%2Freyna&psig=AOvVaw2z12ZQ3HDGisNTUM8NLFZQ&ust=1679577893518000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLC0lLbR7_0CFQAAAAAdAAAAABAD">
  
 
