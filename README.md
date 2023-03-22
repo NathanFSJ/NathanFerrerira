@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
+-<head>
   🤣🎉😎
-</head>
-<body>
-  <h1> Hello World </h1>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F789748484659605772%2F&psig=AOvVaw0RsuTH0HIiSTCRcjceu4m-&ust=1679575765647000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLD5jMnJ7_0CFQAAAAAdAAAAABAD">
+-</head>
+-<body>
+-  <h1> Hello World </h1>
+  
 
