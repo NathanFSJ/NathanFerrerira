@@ -25,7 +25,12 @@ Here are some ideas to get you started:
    <li>Análise e Desenvolvimento de Sistemas</li>
   <ul> 
    
-   ## Ferramentas e Tecnologias
+ ## Ferramentas e Tecnologias
    
+   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+          
+   
+          
 
 
