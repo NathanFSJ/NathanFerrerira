@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1> Hello World 💖</h1>
  
 <li>Estudante do SESI 📖</li>
-<li>Análise e Desenvolvimento de Sistemas 🥵</li>
+<li>Análise e Desenvolvimento de Sistemas </li>
  
 ## Painel
 
